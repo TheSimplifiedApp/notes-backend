@@ -1,1 +1,7 @@
-PUT http://localhost:3001/api/notes/1
+PUT http://localhost:3001/api/notes/66445a5859b03791338f9585
+Content-Type: application/json
+
+{
+  "content": "Machine Learning is complicated",
+  "important": false
+}
